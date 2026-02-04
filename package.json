@@ -1,0 +1,13 @@
+{
+  "name": "fsd",
+  "version": "1.0.0",
+  "description": "Node.js FS module demo with ES Modules",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "fs", "esmodules", "json"],
+  "author": "Parth Chauhan",
+  "license": "ISC"
+}
